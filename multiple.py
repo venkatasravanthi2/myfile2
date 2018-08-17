@@ -5,4 +5,4 @@ for i in range(1,6):
         k=' '
     else:
         k=''
-    print(i,end=' ')
+    print(i,end=k)
